@@ -1,4 +1,5 @@
 make generation works
+death code/ui
+score counter code/ui
 start screen ui
-death ui
 fuck pausing
