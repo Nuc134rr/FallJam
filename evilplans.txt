@@ -1,0 +1,4 @@
+make generation works
+start screen ui
+death ui
+fuck pausing
